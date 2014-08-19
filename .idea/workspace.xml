@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83d9866c-a7d3-4543-9687-c6e6868e7f54" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/foundation/foundation.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/images/autocomplete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/json2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/built-editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/built-editor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/contentassist/doctrine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/contentassist/esprima.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/contentassist/esprimaJsContentAssist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/contentassist/esprimaVisitor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/contentassist/proposalUtils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/contentassist/types.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/orion/customeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/prettify/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/prettify/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/assets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/bin/esparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/bin/esvalidate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/autocomplete.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/collector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/collector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/functiontrace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/functiontrace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/highlight.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/minify.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/minify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/parse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/parse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/precedence.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/precedence.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/rewrite.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/rewrite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/transpile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/transpile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/validate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/demo/validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/doc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/esprima.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/examples/detectnestedternary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/examples/findbooleantrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/examples/tokendist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/XMLHttpRequest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/acorn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/angular-1.0.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/backbone-0.9.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/codemirror-2.34.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/escodegen.browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/esmangle.browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/esmorph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/harmonizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/jquery-1.8.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/jquery.mobile-1.2.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/modifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/mootools-1.4.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/parse-js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/threejs-r51.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/3rdparty/underscore-1.4.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/benchmarks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/benchmarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/compare.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/compare.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/compat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/compat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/coverage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/esprima.js.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/harmonytest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/module.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/module.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/reflect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/test/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/tools/check-version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/tools/generate-test-fixture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/tools/generate-unicode-regex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/tools/list-complexity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/esprima/tools/update-coverage.sh" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/lib/react-0.11.1/jquery-2.1.1.js" afterPath="$PROJECT_DIR$/js/jquery-2.1.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/*.css" afterPath="$PROJECT_DIR$/prod/*.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/built.css" afterPath="$PROJECT_DIR$/prod/built.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/built.js" afterPath="$PROJECT_DIR$/prod/built.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/built.min.js" afterPath="$PROJECT_DIR$/prod/built.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/campaign.js" afterPath="$PROJECT_DIR$/js/campaign.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jsx/campaign.jsx" afterPath="$PROJECT_DIR$/jsx/campaign.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/.bin/esparse" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/.bin/esvalidate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.scss" afterPath="$PROJECT_DIR$/css/global.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gruntfile.js" afterPath="$PROJECT_DIR$/gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/menu.js" afterPath="$PROJECT_DIR$/js/menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jsx/menu.jsx" afterPath="$PROJECT_DIR$/jsx/menu.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/observer.js" afterPath="$PROJECT_DIR$/js/observer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jsx/observer.jsx" afterPath="$PROJECT_DIR$/jsx/observer.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/lib/options.js" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/lib/options.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/ansi-styles/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/escape-string-regexp/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/has-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/strip-ansi/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/supports-color/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/source-map/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-concat/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/which/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-sass/node_modules/which/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/core-util-is/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/isarray/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/lodash/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/node_modules/nopt/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/noptify/node_modules/nopt/node_modules/abbrev/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/commander/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/commander/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/minimatch/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/minimatch/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/minimatch/node_modules/lru-cache/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/glob/node_modules/minimatch/node_modules/sigmund/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/graceful-fs/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/graceful-fs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/iconv-lite/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/iconv-lite/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/async/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/async/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/gex/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/gex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/logmagic/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/logmagic/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/magic-templates/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/magic-templates/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/rimraf/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/rimraf/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/simplesets/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/simplesets/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/sprintf/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/sprintf/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/terminal/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/terminal/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/underscore/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/install/node_modules/whiskey/node_modules/underscore/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/mkdirp/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/mkdirp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/private/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/private/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/q/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/q/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/ast-types/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/ast-types/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/cls/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/cls/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/source-map/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/esprima-fb/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/esprima-fb/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/node_modules/base62/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/node_modules/base62/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/node_modules/source-map/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/node_modules/source-map/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/node_modules/source-map/node_modules/amdefine/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/jstransform/node_modules/source-map/node_modules/amdefine/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/lib/printer.js" afterPath="$PROJECT_DIR$/node_modules/grunt-react/node_modules/react-tools/node_modules/commoner/node_modules/recast/lib/printer.js" />
+    </list>
+    <ignored path="ObserverV2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ObserverV2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="campaign.jsx" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsx/campaign.jsx">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0493827" vertical-offset="0" max-vertical-offset="612">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="observer.jsx" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsx/observer.jsx">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-30.0" vertical-offset="0" max-vertical-offset="975">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.jsx" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsx/menu.jsx">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.444445" vertical-offset="0" max-vertical-offset="525">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/global.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5498392" vertical-offset="867" max-vertical-offset="1815">
+              <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gruntfile.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gruntfile.js" />
+        <option value="$PROJECT_DIR$/jsx/observer.jsx" />
+        <option value="$PROJECT_DIR$/jsx/menu.jsx" />
+        <option value="$PROJECT_DIR$/jsx/campaign.jsx" />
+        <option value="$PROJECT_DIR$/css/global.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <gruntfiles>
+      <GruntfileState>
+        <gruntfile-path>$PROJECT_DIR$/gruntfile.js</gruntfile-path>
+      </GruntfileState>
+    </gruntfiles>
+    <initial>false</initial>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2560" />
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsx" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObserverV2" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/js/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83d9866c-a7d3-4543-9687-c6e6868e7f54" name="Default" comment="" />
+      <created>1408460742008</created>
+      <updated>1408460742008</updated>
+      <workItem from="1408460742670" duration="183000" />
+      <workItem from="1408461874466" duration="8986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9169000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2560" y="22" width="1280" height="1054" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jsx/campaign.jsx">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsx/menu.jsx">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="525">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.01607717" vertical-offset="0" max-vertical-offset="933">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsx/observer.jsx">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-30.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsx/menu.jsx">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.444445" vertical-offset="0" max-vertical-offset="525">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsx/campaign.jsx">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0493827" vertical-offset="0" max-vertical-offset="612">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5498392" vertical-offset="867" max-vertical-offset="1815">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

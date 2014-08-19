@@ -49,8 +49,10 @@ var Observer = React.createClass({
         return (
         	    <div className="app">
     			    <Menu view_state={this.state.Campaign_View} menu_expanded={false} ></Menu>
+    			    <span>
     			    <Campaign_Column position='left' campaign_list={left_campaigns}></Campaign_Column>
                     <Campaign_Column position='right' campaign_list={right_campaigns}></Campaign_Column>
+                    </span>
     		    </div>
     		    );
     }

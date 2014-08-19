@@ -22,7 +22,7 @@ module.exports = function(grunt) {
             },
             scripts: {
                 files: ['jsx/*.jsx', 'js/*.js', 'css/*.scss'],
-                tasks: ['react', 'concat', 'uglify', 'sass', 'autoprefixer'],
+                tasks: ['react', 'concat', 'sass'],
                 options: {
                     spawn: false,
                 },

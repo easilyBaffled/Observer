@@ -15,7 +15,7 @@ var Menu = React.createClass({
     	var cx = React.addons.classSet;
     	var menu_classes  = cx({
     		'menu': true,
-    		'expanded': this.state.menu_expanded,
+    		'menu_expanded': this.state.menu_expanded,
     	});
     	var menu_elements;
     	if(this.state.menu_expanded){
